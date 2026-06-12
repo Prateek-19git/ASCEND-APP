@@ -1,2 +1,2 @@
 # ASCEND-APP
-an app which provides real world task with the help of ai for you to ascend in your goal 
+An app that provides real-world tasks with the help of AI so you can ascend toward your goals.
